@@ -1,0 +1,9 @@
+#json
+key.json
+
+#enviroment variables
+.env
+
+#virtual enviroment
+/prenv
+
